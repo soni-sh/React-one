@@ -2,7 +2,7 @@
 
 Welcome to **VirtualR**, a sleek and modern SaaS-style frontend project designed for developers! Built with **React** and **Tailwind CSS**, VirtualR offers a clean, responsive interface that mimics real-world developer tool platforms.
 
-<!-- ![VirtualR Banner](https://lnkd.in/gYQKtg9x) -->
+![VirtualR Banner](/public/img%201.png) 
 
 ## 🚀 Live Demo
 
@@ -36,6 +36,9 @@ This project was a great learning experience and helped me explore many core fro
 ## 📸 Screenshots
 
 <!-- You can add actual screenshots here -->
-```bash
-[Screenshot1.png]
-[Screenshot2.png]
+
+![Screenshot 1](/public/img%201.png)
+![Screenshot 1](/public/img%202.png)
+![Screenshot 1](/public/img%203.png)
+![Screenshot 1](/public/img%204.png)
+![Screenshot 1](/public/img%205.png)
